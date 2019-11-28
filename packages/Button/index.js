@@ -1,1 +1,0 @@
-module.exports = "Button 2";
