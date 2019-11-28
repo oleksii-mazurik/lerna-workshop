@@ -1,11 +1,11 @@
 {
   "name": "@aleksey/Table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@aleksey/Button": "^1.0.1",
-    "@aleksey/Text": "^1.0.1",
+    "@aleksey/Button": "^1.0.2",
+    "@aleksey/Text": "^1.0.2",
     "lodash": "^4.17.15"
   }
 }
