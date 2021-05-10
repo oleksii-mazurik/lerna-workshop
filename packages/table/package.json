@@ -6,7 +6,7 @@
   "dependencies": {
     "@aleksey/button": "^1.0.3",
     "@aleksey/text": "^1.0.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "gitHead": "5f78620c6b1d0a6f9a9b668fb746b9edde090542"
 }
